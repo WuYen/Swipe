@@ -9,7 +9,7 @@
     "mobile-detect": "^1.4.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "set PORT=3008 && react-scripts start",
